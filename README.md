@@ -10,16 +10,7 @@ class YourDto extends DataTransferObject
 
 # Add the generator to your deps
 ```
-"repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/visuallazza/fixture-generator.git"
-    },
-],
-"require-dev": {
-    ...
-    "events/crawler": "dev-master",
-    ...
+composer require visuallazza/fixture-generator
 }
 ```
 
