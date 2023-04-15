@@ -11,7 +11,6 @@ class YourDto extends DataTransferObject
 # Add the generator to your deps
 ```
 composer require visuallazza/fixture-generator
-}
 ```
 
 # How to use
